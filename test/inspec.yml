@@ -1,0 +1,11 @@
+name: profile
+title: AWS InSpec Profile
+maintainer: Platform
+copyright: Platform
+copyright_email: sbrw01@outlook.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile For AWS
+version: 0.1.0
+inspec_version: '>= 2.3.5'
+supports:
+- platform: aws
