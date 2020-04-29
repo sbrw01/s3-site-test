@@ -19,12 +19,6 @@ The project consists of the following key AWS services:
  `ACM` - Certificate manager for SSL certificate generation for website. SSL certicate is created manually as it is a manual process and definied as a data source (dns.tf)
 
  
-***
-
-Link to a example working site:
-
-[https://sbrw.co.uk](https://sbrw.co.uk)
-
 
 ## How to run Project:
 ***
